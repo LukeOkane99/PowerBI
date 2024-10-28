@@ -1,4 +1,4 @@
-A collection of data visualization projects utilizing PowerBI
+# A collection of data visualization projects utilizing PowerBI
 
 1. Data Professional Survey Breakdown:
 
